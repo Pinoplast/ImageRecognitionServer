@@ -1,0 +1,10 @@
+/Users/akolomy/Documents/server/ImageRecognitionServer/bin/Debug/netcoreapp2.0/ImageRecognitionServer.deps.json
+/Users/akolomy/Documents/server/ImageRecognitionServer/bin/Debug/netcoreapp2.0/ImageRecognitionServer.runtimeconfig.json
+/Users/akolomy/Documents/server/ImageRecognitionServer/bin/Debug/netcoreapp2.0/ImageRecognitionServer.runtimeconfig.dev.json
+/Users/akolomy/Documents/server/ImageRecognitionServer/bin/Debug/netcoreapp2.0/ImageRecognitionServer.dll
+/Users/akolomy/Documents/server/ImageRecognitionServer/bin/Debug/netcoreapp2.0/ImageRecognitionServer.pdb
+/Users/akolomy/Documents/server/ImageRecognitionServer/obj/Debug/netcoreapp2.0/ImageRecognitionServer.csproj.CoreCompileInputs.cache
+/Users/akolomy/Documents/server/ImageRecognitionServer/obj/Debug/netcoreapp2.0/ImageRecognitionServer.AssemblyInfoInputs.cache
+/Users/akolomy/Documents/server/ImageRecognitionServer/obj/Debug/netcoreapp2.0/ImageRecognitionServer.AssemblyInfo.cs
+/Users/akolomy/Documents/server/ImageRecognitionServer/obj/Debug/netcoreapp2.0/ImageRecognitionServer.dll
+/Users/akolomy/Documents/server/ImageRecognitionServer/obj/Debug/netcoreapp2.0/ImageRecognitionServer.pdb

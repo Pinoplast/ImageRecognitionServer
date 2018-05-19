@@ -1,0 +1,5 @@
+/Users/akolomy/Documents/server/ImageRecognitionServer
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=ImageRecognitionServer
+--content-root=/Users/akolomy/Documents/server/ImageRecognitionServer
+--file=
